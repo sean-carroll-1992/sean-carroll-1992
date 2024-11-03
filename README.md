@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/seancarroll8471
+[linkedin]: https://www.linkedin.com/in/seancarroll847/
